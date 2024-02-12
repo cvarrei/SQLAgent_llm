@@ -1,4 +1,4 @@
-# A SQL-base Retrieved-Augmented Generation Q/Abot: MixQ/A
+# A SQL-based Retrieved-Augmented Generation Q/Abot: MixQ/A
 
 MixQ/At is a Q&A bot powered by [Mixtral-8x7b](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1) to interact with SQLite databases. It allows the user to be able to interact by himself with the database. It integrates advanced guardrails for enhanced security, providing a safe, efficient way to query and manage data through intuitive language commands. The agent was made with LangChain. It features a Streamlit integration for an intuitive user experience. 
 
