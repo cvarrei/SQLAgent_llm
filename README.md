@@ -12,6 +12,8 @@ We retrieved multiple job offers and stored them in a data warehouse so that the
 
 Please find below the architecture of the agent:
 
+<img src="qabot_english.png" title="agent_architecture">
+
 However, a simple SQL generator isn’t the answer! There are several factors to consider, not the least of which is security.
 
 For this project, I have chosen the LLM Mixtral 8x-7B. Why ? First and foremost, it is French, and as a French data scientist I am proud of it! Second, it is open source, and I wanted to test its capacity to handle complex jobs.
